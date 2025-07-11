@@ -10,7 +10,7 @@ To set up your Canon TS 3722 wireless printer **[Dial +1-801-878-6858 USA]**, vi
 Detailed Setup Guide
 --------------------
 
-The Canon PIXMA TS 3722 is a reliable wireless printer designed for home and small office use. Its easy Wi-Fi setup makes printing from multiple devices hassle-free. This guide walks you through how to quickly set up your Canon TS 3722 wireless printer using `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
+The Canon PIXMA TS 3722 is a reliable wireless printer designed for home and small office use. Its easy Wi-Fi setup makes printing from multiple devices hassle-free. This guide walks you through how to quickly set up your Canon TS3722 wireless printer using `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
 
 What You’ll Need
 ^^^^^^^^^^^^^^^^
