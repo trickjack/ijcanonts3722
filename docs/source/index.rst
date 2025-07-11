@@ -63,4 +63,4 @@ Troubleshooting Tips
 
 Final Thoughts
 --------------
-Setting up your Canon TS 3722 wireless printer through `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ is fast, easy, and convenient. Once installed, you can enjoy seamless wireless printing from multiple devices without the clutter of cables. Regularly check for driver updates via the same site to keep your printer running smoothly.
+Setting up your Canon TS 3722 wireless printer through `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ is fast, easy, and convenient. Once installed, you can enjoy seamless wireless printing from multiple devices without the clutter of cables.
