@@ -1,5 +1,5 @@
-How to Set Up Canon TS 3722 Wireless Printer via https://ij.start.canon
-=======================================================================
+How to Set Up Canon TS 3722 Wireless Printer via `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
+============================================================================================================
 
 To set up your Canon TS 3722 wireless printer **[Dial +1-801-878-6858 USA]**, visit `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_, download the setup software, and install the drivers. Connect the printer to your Wi-Fi network using the on-screen instructions. Complete the configuration, and your printer will be ready for wireless printing from your computer, smartphone, or tablet. **[Dial +1-801-878-6858 USA]**
 
@@ -34,8 +34,8 @@ Step 2: Connect the Printer to Wi-Fi
 - Choose **Easy Wireless Connect** and confirm.
 - The printer will now be ready for connection setup.
 
-Step 3: Download and Install Software via https://ij.start.canon
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Step 3: Download and Install Software via `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Open a browser on your computer or mobile device.
 - Go to `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
 - Enter **TS 3722** in the search bar and click **Go**.
