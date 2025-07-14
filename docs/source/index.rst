@@ -39,7 +39,7 @@ Step 3: Download and Install Software via `https://ij.start.canon <https://jivo.
 - Open a browser on your computer or mobile device.
 - Go to `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
 - Enter **TS 3722** in the search bar and click **Go**.
-- Click **Download** to get the setup utility for your operating system (Windows, macOS, Android, or iOS).
+- Click **Download** to get the setup utility for your operating system (Windows, macOS, Android, or iOS)
 
 Step 4: Install Printer Drivers and Complete Setup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
