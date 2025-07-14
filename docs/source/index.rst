@@ -24,7 +24,7 @@ Step 1: Unbox and Prepare the Printer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Unbox your Canon TS 3722 printer carefully.
 - Plug it into a power source and press the **Power** button.
-- Install the ink cartridges and load plain paper into the input tray.
+- Install the ink cartridges and load plain paper into the input tray
 
 Step 2: Connect the Printer to Wi-Fi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
